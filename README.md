@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Drum Website <br/>
   <!-- <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> -->
 </h2>
 <div align="center">
@@ -24,7 +24,6 @@ This project was built using these technologies.
 - CSS3
 - Javascript
 - VsCode
-- Vercel
 
 ## Features
 
